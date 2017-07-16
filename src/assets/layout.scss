@@ -1,0 +1,78 @@
+/*
+* repository 布局文件
+*/
+
+$yellow: #f1e05a;
+$red: #e34c26;
+$green: #3fb68b;
+$blue: #438eff;
+$brown: #b07219;
+
+.container{
+  width: 600px;
+  margin: 0 auto;
+}
+
+.card{
+  width: 600px;
+  min-height: 200px;
+  margin: 20px 0;
+  text-align: justify;
+}
+
+.header{
+  position: relative;
+  text-align: left;
+  font-weight: 600;
+  font-size: 1.2em;
+  .repo-lang{
+    position: absolute;
+    font-weight: 300;
+    left: 75%;
+  }
+  .round{
+    display: inline-block;
+    width: 0.8em;
+    height: 0.8em;
+    margin: 0 10px 0 0;
+    border-radius: 0.4em;
+  }
+}
+
+.bottom{
+  height: 50px;
+  margin-left: 20px;
+  span{
+    display: block;
+    margin: 10px 0;
+  }
+}
+
+.card-content{
+  display: inline-block;
+  width: 60%;
+  margin: 20px;
+  span{
+    display: block;
+    margin: 10px 0;
+  }
+}
+
+.image {
+  float: right;
+  display: block;
+  height: 100px;
+  width: 100px;
+  border-radius: 50px;
+  margin: 20px;
+}
+
+.clearfix:before,
+.clearfix:after {
+  display: table;
+  content: "";
+}
+
+.clearfix:after {
+  clear: both
+}
