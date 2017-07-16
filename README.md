@@ -5,9 +5,9 @@
 ## 介绍
 该项目是根据 [一个项目学会前端实现登录拦截](https://github.com/superman66/vue-axios-github) 项目的思想，基于 Element UI 完成一个登录，拦截登录，登出，利用 GitHub API 获取数据等功能的一个小 demo ，利用了 vue，vue-router，vuex，axios，webpack，sass 等技术栈， 通过 eslint 进行语法检查，是 vue 初学者实践的一个很好的例子。
 
-![](/Users/wuyiqing/Desktop/2017-07-16_12-20-26.png)
-![](/Users/wuyiqing/Desktop/2017-07-16_12-03-18.png)
-![](/Users/wuyiqing/Desktop/2017-07-16_12-19-23.png)
+![](http://wx4.sinaimg.cn/large/005AcJpBgy1fhlud1uzgaj30rt0i5407.jpg)
+![](http://wx2.sinaimg.cn/large/005AcJpBgy1fhlud0b8lhj30gl072747.jpg)
+![](http://wx3.sinaimg.cn/large/005AcJpBgy1fhlud13e2vj30sk0lo42e.jpg)
 
 
 ### 技术栈
@@ -54,7 +54,7 @@ npm install
 npm run dev
 ```
 
-![](/Users/wuyiqing/Desktop/2017-07-16_11-18-09.png)
+![](http://wx3.sinaimg.cn/large/005AcJpBgy1fhluczxzjpj30g90bxtdb.jpg)
 
 
 **目录结构说明**
