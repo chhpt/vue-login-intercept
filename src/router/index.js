@@ -31,7 +31,7 @@ const routes = [
     name: 'Repository',
     component: Repository,
     meta: {
-      requiresAuth: true // 表示进入这个路由需要认证
+      requiresAuth: true // 用于判断进入这个路由是否需要认证
     }
   }
 ]
@@ -50,7 +50,7 @@ const router = new Router({
 router.beforeEach((to, from, next) => {
   // 对 to.matched 数组中的每个路由调用箭头函数
   if (to.matched.some(record => record.meta.requiresAuth)) {
-    // 此处需要某个信息判断登录状态
+    // 判断登录状态
     if (store.state.token) {
       // 继续路由
       next()
