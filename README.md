@@ -12,17 +12,17 @@
 
 **网页版截图**
 
-![](http://wx4.sinaimg.cn/large/005AcJpBgy1fhlud1uzgaj30rt0i5407.jpg)
-![](http://img.my.csdn.net/uploads/201707/17/1500302793_4018.png)
-![](http://wx3.sinaimg.cn/large/005AcJpBgy1fhlud13e2vj30sk0lo42e.jpg)
+![首页截图](http://wx4.sinaimg.cn/large/005AcJpBgy1fhlud1uzgaj30rt0i5407.jpg)
+![登录界面](http://img.my.csdn.net/uploads/201707/17/1500302793_4018.png)
+![仓库列表](http://wx3.sinaimg.cn/large/005AcJpBgy1fhlud13e2vj30sk0lo42e.jpg)
 
 
 ---
 
 **Electron版截图**
 
-![](http://wx4.sinaimg.cn/large/005AcJpBgy1fhn0v4tgdmj30rs0g90uj.jpg)
-![](http://wx4.sinaimg.cn/large/005AcJpBgy1fhn2j30s2mj30r90gt0vt.jpg)
+![首页](http://img.my.csdn.net/uploads/201707/17/1500302968_1868.png)
+![仓库列表](http://wx4.sinaimg.cn/large/005AcJpBgy1fhn2j30s2mj30r90gt0vt.jpg)
 ### 技术栈
 - [Vue](https://cn.vuejs.org/v2/guide/)
 - [vue-router](https://router.vuejs.org/zh-cn/)
