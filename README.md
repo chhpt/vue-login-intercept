@@ -21,8 +21,7 @@
 
 **Electron版截图**
 
-![Electron首页截图](http://wx4.sinaimg.cn/large/005AcJpBgy1fhn0v4tgdmj30rs0g90uj.jpg)
-
+![](http://wx4.sinaimg.cn/large/005AcJpBgy1fhn2j30s2mj30r90gt0vt.jpg)
 ![](http://wx4.sinaimg.cn/large/005AcJpBgy1fhn2j30s2mj30r90gt0vt.jpg)
 ### 技术栈
 - [Vue](https://cn.vuejs.org/v2/guide/)
