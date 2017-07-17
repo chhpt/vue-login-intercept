@@ -13,7 +13,7 @@
 **网页版截图**
 
 ![](http://wx4.sinaimg.cn/large/005AcJpBgy1fhlud1uzgaj30rt0i5407.jpg)
-![](http://wx3.sinaimg.cn/large/005AcJpBgy1fhn2gt181pj30tw0hit95.jpg)
+![](http://img.my.csdn.net/uploads/201707/17/1500302793_4018.png)
 ![](http://wx3.sinaimg.cn/large/005AcJpBgy1fhlud13e2vj30sk0lo42e.jpg)
 
 
@@ -21,7 +21,7 @@
 
 **Electron版截图**
 
-![](http://wx4.sinaimg.cn/large/005AcJpBgy1fhn2j30s2mj30r90gt0vt.jpg)
+![](http://wx4.sinaimg.cn/large/005AcJpBgy1fhn0v4tgdmj30rs0g90uj.jpg)
 ![](http://wx4.sinaimg.cn/large/005AcJpBgy1fhn2j30s2mj30r90gt0vt.jpg)
 ### 技术栈
 - [Vue](https://cn.vuejs.org/v2/guide/)
