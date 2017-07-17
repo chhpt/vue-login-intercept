@@ -150,7 +150,7 @@ router.beforeEach((to, from, next) => {
 
 > `next('/')` 或者 `next({ path: '/' })`: 跳转到一个不同的地址。当前的导航被中断，然后进行一个新的导航。
 
-**注意：**一定要调用 `next` 方法，否则钩子就不会被解析，也就不会起作用。
+**注意：** 一定要调用 `next` 方法，否则钩子就不会被解析，也就不会起作用。
 
 `to` 和 `from` 是路由信息对象，包含了一些基本属性，其中 `matched` 属性是一个数组，记录了当前路由的所有嵌套路径片段的 **路由记录**。路由记录就是 routes 配置数组中的对象副本（还有在 children 数组）。
 
@@ -215,7 +215,7 @@ axios.interceptors.response.use(
 在这个项目里，多个组件（`index` 和 `login`）都需要用到 `token` 信息，也会有多个组件（`login` 和 `repository`）对 `token` 或者 `title` 信息进行更改的情况， 这个时候就涉及到两个问题：
 
 - 多个视图依赖于同一状态。
-- 来自不同视图的行为需要变更同一状态。 
+- 来自不同视图的行为需要变更同一状态。
 
 让我们来看看官方文档的对这种问题的解释：
 
@@ -235,7 +235,7 @@ axios.interceptors.response.use(
 
 2. 你不能直接改变 store 中的状态。改变 store 中的状态的唯一途径就是显式地提交(commit) mutations。这样使得我们可以方便地跟踪每一个状态的变化，从而让我们能够实现一些工具帮助我们更好地了解我们的应用。
 
-创建 `store` 的过程很简单，只需要提供一些初始 `state` 对象和一些 `mutations` ： 
+创建 `store` 的过程很简单，只需要提供一些初始 `state` 对象和一些 `mutations` ：
 
 ```javascript
 const store = new Vuex.Store({
