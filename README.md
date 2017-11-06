@@ -45,7 +45,7 @@ npm run dev
 npm run build
 
 # 构建并查看分析器报告
-npm run build --report=
+npm run build --report
 ```
 
 ## 项目结构
